@@ -119,11 +119,15 @@ footer{
 img {
   height: 200px;
 }
+.greeting{
+text-align: center;
+}
 
 @media (max-width: 768px) {
   .column {
     flex: 100%;
   }
+}
 
 
   .nav-links {
